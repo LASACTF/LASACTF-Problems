@@ -1,0 +1,25 @@
+Quiz - Matching
+
+Questions:
+1)__ [おと]^[みと]$[どん]#
+2)__ [ぶん]$[どん]#[ふん]^
+3)__ [るふ|ふん]^[そご]#[まの]$
+4)__ [みと,ふん]^[そこ]#
+5)__ [みと,るふ]^[そな]$[らり]#
+6)__ [どん]#[おど]$[るふ]^
+7)__ [みと]$[どん]#[まの]^
+8)__ [どん]#[おど|ぶん]$[てひ]^
+9)__ [ぞこ]#[まの]$[おと]^
+10)__ [ふん]^[はほ,どん]#[まの]$
+
+Answer bank:
+a) The field was green
+b) The green bird flew
+c) The sick dog lost the race
+d) The bird was in the field
+e) The boy left the field
+f) The boy was sick
+g) The dog was sad
+h) The bird was angry
+i) The sky was blue and red
+j) The dog and the bird entered the field

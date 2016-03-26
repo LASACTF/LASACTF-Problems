@@ -1,0 +1,9 @@
+{
+  "name": "A More Logical Grammar",
+  "category": "Cryptography",
+  "description": "Professor Kyle decided to write a test in translating a fake language! {{url_for(\"problem.txt\", display=\"Here\")}} is the test. Can you get a perfect score?",
+  "hints": ["While the characters are Japanese, the language is not. The flag is the answer key with the answer for each problem separated by commas and a single space. Ex. lasactf{a, b, c, d, e, f, g, h, i, j} could be a flag."],
+  "score" : 80,
+  "author": "Niels",
+  "organization": "LASACS"
+}
