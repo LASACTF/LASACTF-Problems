@@ -1,0 +1,9 @@
+{
+  "name": "Bit Maps",
+  "category": "Algorithm",
+  "description": "Kyle needs to mow his 4800x4800 lawn, but his property only contains areas accessible by moving in the four cardinal directions from the top left corner. Here's the {{url_for(\"map.dat\", display=\"map\")}} of the area. 0's are blocks that must be mowed, while 1's are impassible. How many blocks of grass must Kyle mow?",
+  "score" : 110,
+  "hints": ["What happens when it rains a lot?","Read this as a computer would"],
+  "author": "Michael",
+  "organization": "LASACS"
+}

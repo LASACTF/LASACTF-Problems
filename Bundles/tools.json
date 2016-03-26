@@ -1,0 +1,8 @@
+{
+  "name": "Shell Tools",
+  "author": "Ehsan Asdar",
+  "description": "This is a basic set of tools to install on the shell server for users.",
+  "categories": ["Tools"],
+  "problems": [],
+  "pkg_dependencies": ["gdb", "foremost", "vim-nox", "expect", "tmux", "screen", "unzip", "bvi", "hexedit", "curl", "wget", "scalpel", "ipython", "sl"]
+}

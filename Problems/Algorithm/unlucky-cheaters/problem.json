@@ -1,0 +1,9 @@
+{
+  "name": "Unlucky Cheaters",
+  "category": "Algorithm",
+  "description": "Professor Kyle gives two forms of his tests to deter cheaters, however some of his students don't know this and copy answers off the wrong form! Help him analyse the {{url_for(\"studentdata.dat\", display=\"test data\")}} and find the cheaters.<br>Note: Submit the last names of the cheaters in alphabetical order, separated only by commas.",
+  "score" : 200,
+  "hints": ["There are only 5 cheaters.","Statistically, you should probably be at least 99.98% confident."],
+  "author": "Michael",
+  "organization": "LASACS"
+}

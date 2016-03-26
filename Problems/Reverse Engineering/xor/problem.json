@@ -1,0 +1,9 @@
+{
+  "name": "Xor",
+  "category": "Reverse Engineering",
+  "description": "Some simple encryption... Do you think you can crack it? {{url_for(\"xor.exe\", display=\"file\")}}",
+  "score" : 100,
+  "hints": ["No Hint"],
+  "author": "r3ndom_",
+  "organization": "LASACS"
+}

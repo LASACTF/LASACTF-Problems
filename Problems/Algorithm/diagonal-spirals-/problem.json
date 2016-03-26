@@ -1,0 +1,9 @@
+{
+  "name": "Diagonal Spirals?",
+  "category": "Algorithm",
+  "description": "{{url_for(\"description.txt\", display=\"Here is the description\")}}. {{url_for(\"key5spiral.png\", display=\"Spirals key 5 Example\")}}. {{url_for(\"key5encrypted.png\", display=\"Key 5 Plaintext and Encryptedtext\")}}. {{url_for(\"key6spiral.png\", display=\"Spirals key 6 Example\")}}. {{url_for(\"key6encrypted.png\", display=\"Key 6 Plaintext and Encryptedtext\")}}. {{url_for(\"selection.png\", display=\"Selection for Spiral 5 Example\")}}. {{url_for(\"encrypted.txt\", display=\"Encrypted Text\")}}.",
+  "hints": ["The 1st key + 5 = 2nd key. The 2nd key + 5 = 3rd key. Flag is in standard lasactf format."],
+  "score" : 190,
+  "author": "Wilson",
+  "organization": "LASACS"
+}

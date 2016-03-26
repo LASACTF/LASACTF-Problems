@@ -1,0 +1,9 @@
+{
+  "name": "Nested",
+  "category": "Reverse Engineering",
+  "description": "Kyle had a phase where he really liked russian nesting dolls, so much in fact that he made a bunch of binaries that are nested. Can you un-nest all the {{url_for(\"solve_me.exe\", display=\"binaries\")}}?",
+  "hints": ["No Hint."],
+  "score" : 220,
+  "author": "r3ndom_",
+  "organization": "LASACS"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "RSA Over Two",
+  "category": "Cryptography",
+  "description": "Our security guy is on hiatus because we couldn't crack his message. Could you help us out and decode {{url_for(\"rsa.txt\", display=\"this\")}}?",
+  "hints": ["Our security guy isn't particularly good."],
+  "score" : 70,
+  "author": "Michael",
+  "organization": "LASACS"
+}

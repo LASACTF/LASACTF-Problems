@@ -1,0 +1,9 @@
+{
+  "name": "Custom Encryption 2",
+  "category": "Cryptography",
+  "description": "Apparently we have a lot of old weird software - Maya found another logging machine that we don't know the key to. Could you figure out this one as well? <a href=\"http://{{server}}:{{port}}\">http://{{server}}:{{port}}</a>",
+  "score" : 170,
+  "hints": ["I wonder if there is any pattern in the encrypted output..."],
+  "author": "Jonathan",
+  "organization": "LASACS"
+}

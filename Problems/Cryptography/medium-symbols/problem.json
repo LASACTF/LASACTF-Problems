@@ -1,0 +1,9 @@
+{
+  "name": "Medium Symbols",
+  "category": "Cryptography",
+  "description": "{{url_for(\"beep.txt\", display=\"Beep!\")}}",
+  "hints": ["Boop", "Submit in all lower-case"],
+  "score" : 50,
+  "author": "Michael",
+  "organization": "LASACS"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Easy",
+  "category": "Reverse Engineering",
+  "description": "Find the flag in {{url_for(\"easy.exe\", display=\"this file\")}}!",
+  "score" : 30,
+  "hints": ["Where might one be able to find a plaintext flag?"],
+  "author": "r3ndom_",
+  "organization": "LASACS"
+}

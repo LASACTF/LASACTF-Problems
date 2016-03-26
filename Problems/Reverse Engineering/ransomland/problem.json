@@ -1,0 +1,9 @@
+{
+  "name": "Ransomland",
+  "category": "Reverse Engineering",
+  "description": "Kyle got infected with a bit of ransomware, luckily it only managed to encrypt his personalized copy of Alice in Wonderland. Can you decrypt it to get his data back?  {{url_for(\"ransomware_afflicted.zip\", display=\"file\")}}",
+  "hints": ["pseudo-random"],
+  "score" : 190,
+  "author": "r3ndom_",
+  "organization": "LASACS"
+}

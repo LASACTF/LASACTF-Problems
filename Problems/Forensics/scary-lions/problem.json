@@ -1,0 +1,9 @@
+{
+  "name": "Scary Lions",
+  "category": "Forensics",
+  "description": "Wow this is a really old {{url_for(\"lions.jpg\", display=\"picture\")}}",
+  "score" : 180,
+  "hints": ["What sound does a lion make when playing golf?"],
+  "author": "Ashwin",
+  "organization": "LASACS"
+}

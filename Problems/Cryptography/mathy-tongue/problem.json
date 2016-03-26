@@ -1,0 +1,9 @@
+{
+  "name": "Mathy Tongue",
+  "category": "Cryptography",
+  "description": "Given {{url_for(\"problem2.txt\", display=\"this\")}} information, what is zokalal + namekalal?",
+  "hints": ["All the math symbols have the same functionality, so 2+3=5 and 2*3=6. Good luck!"],
+  "score" : 170,
+  "author": "Niels",
+  "organization": "LASACS"
+}

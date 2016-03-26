@@ -1,0 +1,9 @@
+{
+  "name": "Sounds Strange",
+  "category": "Forensics",
+  "description": "Someone generated {{url_for(\"sounds_strange.zip\", display=\"this file\")}} but they didn't tell us what it meant. Figure it out!",
+  "hints": ["aiff files don't show their true nature"],
+  "score" : 100,
+  "author": "Michael",
+  "organization": "LASACS"
+}

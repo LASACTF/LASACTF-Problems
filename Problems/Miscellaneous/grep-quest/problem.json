@@ -1,0 +1,9 @@
+{
+  "name": "Grep Quest",
+  "category": "Miscellaneous",
+  "description": "Locate the flag in all the words at <code>{{directory}}/grepy-words/</code>",
+  "score" : 40,
+  "hints": ["What do most of the flags have in them?", "I wish I knew how to grep"],
+  "author": "Michael",
+  "organization": "LASACS"
+}

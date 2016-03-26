@@ -1,0 +1,9 @@
+{
+  "name": "Helpful",
+  "category": "Miscellaneous",
+  "description": "<b>I</b> can't <b>R</b>eally <b>C</b>, I wonder who could <b>help</b> me out? I would really like their full name.",
+  "score" : 60,
+  "hints": ["zartik", "This can be solved from any channel on freenode; aka no googling required!"],
+  "author": "Michael",
+  "organization": "LASACS"
+}

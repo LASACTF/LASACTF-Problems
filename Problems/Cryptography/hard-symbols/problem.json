@@ -1,0 +1,9 @@
+{
+  "name": "Hard Symbols",
+  "category": "Cryptography",
+  "description": "Alice and Bob's relationship has become pretty intimate. They have begun test-encrypting their messages using RSA. Here are two intercepted {{url_for(\"intercepted.txt\", display=\"messages\")}}.",
+  "hints": ["One is not like the other. Flag is in all caps. No Spaces."],
+  "score" : 130,
+  "author": "Wilson",
+  "organization": "LASACS"
+}

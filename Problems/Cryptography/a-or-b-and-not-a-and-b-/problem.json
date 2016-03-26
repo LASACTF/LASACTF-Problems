@@ -1,0 +1,9 @@
+{
+  "name": "A OR B AND NOT(A AND B)",
+  "category": "Cryptography",
+  "description": "Our logic teacher communicates with us with these weird lists of numbers. What is {{url_for(\"encryptedmessage.txt\", display=\"this\")}}?",
+  "hints": ["3 byte"],
+  "score" : 60,
+  "author": "Wilson",
+  "organization": "LASACS"
+}

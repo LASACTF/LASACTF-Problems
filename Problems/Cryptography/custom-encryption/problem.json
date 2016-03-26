@@ -1,0 +1,9 @@
+{
+  "name": "Custom Encryption",
+  "category": "Cryptography",
+  "description": "While searching through our old computers, Maya found a box with a bunch of encrypted logs. Unfortunately, we don't know the key and so can't decrypt the any of the logs, but the box is still responding to logging requests. Could you figure out the key for us? <a href=\"http://{{server}}:{{port}}\">http://{{server}}:{{port}}</a>",
+  "score" : 70,
+  "hints": ["It would be a lot easier is most of the encryption didn't matter."],
+  "author": "Jonathan",
+  "organization": "LASACS"
+}

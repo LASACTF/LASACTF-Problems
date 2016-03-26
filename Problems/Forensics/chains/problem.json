@@ -1,0 +1,9 @@
+{
+  "name": "Chains",
+  "category": "Forensics",
+  "description": "It started raining files on our system! We collected all the {{url_for(\"chains.zip\", display=\"droplets\")}}, what do they say?",
+  "score" : 130,
+  "hints": ["Big Endian."],
+  "author": "Michael",
+  "organization": "LASACS"
+}

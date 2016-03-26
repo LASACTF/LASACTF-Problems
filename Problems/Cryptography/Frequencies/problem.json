@@ -1,0 +1,9 @@
+{
+  "name": "Frequencies",
+  "category": "Cryptography",
+  "description": "One of our teachers was so frustrated that they shook their computer. Now all their files are jumbled. What is {{url_for(\"coolencrypted.txt\", display=\"this\")}}?",
+  "hints": ["What are some common characters?"],
+  "score" : 140,
+  "author": "Wilson",
+  "organization": "LASACS"
+}

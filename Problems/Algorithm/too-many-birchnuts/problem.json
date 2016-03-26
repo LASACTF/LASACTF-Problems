@@ -1,0 +1,9 @@
+{
+  "name": "Too Many Birchnuts",
+  "category": "Algorithm",
+  "description": "Assuming average chance, what is the maximum amount of birch trees can you cut down before you get <code>33224202171613280406600885863289624718</code> poison birchnut trees.<br>Start in Autumn at day 1 with 1000000 trees per day and standard season shifts. Assume the rate increases linearly from day 3 to 70.<br><br>Note: Round the final answer down and add 1, it's important I promise",
+  "hints": ["Be precise, account for all 4 seasons, and don't forget to eat", "The answer is a message, not a number"],
+  "score" : 100,
+  "author": "Michael",
+  "organization": "LASACS"
+}

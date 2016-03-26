@@ -1,0 +1,9 @@
+{
+  "name": "R3ndom Eye",
+  "category": "Forensics",
+  "description": "The flag is in the {{url_for(\"eyeofthetiger.png\", display=\"eye\")}} of the beholder.",
+  "score" : 40,
+  "hints": ["File Carving"],
+  "author": "Ashwin",
+  "organization": "LASACS"
+}

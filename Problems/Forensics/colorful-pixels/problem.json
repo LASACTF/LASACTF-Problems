@@ -1,0 +1,9 @@
+{
+  "name": "Colorful Pixels",
+  "category": "Forensics",
+  "description": "Our random noise generator seems to be trying to say something! Can you read its {{url_for(\"noise.png\", display=\"message\")}}  for us?",
+  "score" : 160,
+  "hints": ["If you don't use some programming to solve this you might be insane."],
+  "author": "Michael",
+  "organization": "LASACS"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Pixels",
+  "category": "Forensics",
+  "description": "We intercepted these images: {{url_for(\"QR1.png\", display=\"Image 1\")}} {{url_for(\"QR2.png\", display=\"Image 2\")}}, but we don't know how they go together! Figure out the hidden message!",
+  "score" : 90,
+  "hints": ["What might the file names be implying?"],
+  "author": "Michael",
+  "organization": "LASACS"
+}

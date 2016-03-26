@@ -1,0 +1,9 @@
+{
+  "name": "What's the Password?",
+  "category": "Algorithm",
+  "description": "A login system asks for 10 random characters from a password. For example, \"What are the 2nd, 6th, 23rd, .... characters?\" The characters are always asked in the order that they appear in the password. {{url_for(\"Logins.txt\", display=\"Here\")}} is a list of 250 successful logins for an account. Find the shortest possible password that could fulfill all these logins. <br><strong>Note: Flag not in LASACTF{} format</strong>",
+  "hints": ["Brute force is a bad idea"],
+  "score" : 80,
+  "author": "Wilson",
+  "organization": "LASACS"
+}

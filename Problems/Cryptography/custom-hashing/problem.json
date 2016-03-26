@@ -1,0 +1,10 @@
+{
+  "name": "Custom Hashing",
+  "category": "Cryptography",
+  "pkg_dependencies": ["php5-sqlite"],
+  "description": "Drake has designed a super-secure password hashing scheme for us to make sure that our customers can feel completely safe. Unfortunately, however, we forgot the admin password, though we know that it hashes to 'a8j-2&}r'. Could you log in for us anyway? <a href=\"http://{{server}}:{{port}}\">http://{{server}}:{{port}}</a>",
+  "score" : 70,
+  "hints": ["Drake might be a bit overconfident."],
+  "author": "Jonathan",
+  "organization": "LASACS"
+}

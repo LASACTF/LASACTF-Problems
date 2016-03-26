@@ -1,0 +1,9 @@
+{
+  "name": "Rise of the Machines",
+  "category": "Forensics",
+  "description": "We found this strange {{url_for(\"sketch.pdf\", display=\"file\")}}. Do you understand it?",
+  "hints": ["Flag should be in hexidecimal."],
+  "score" : 150,
+  "author": "Wilson",
+  "organization": "LASACS"
+}

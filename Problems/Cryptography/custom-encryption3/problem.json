@@ -1,0 +1,9 @@
+{
+  "name": "Custom Encryption 3",
+  "category": "Cryptography",
+  "description": "Maya found yet another logger machine. Could you help out again? <a href=\"http://{{server}}:{{port}}\">http://{{server}}:{{port}}</a>",
+  "score" : 270,
+  "hints": ["Is there anything that will stay stable in the output as the input changes?"],
+  "author": "Jonathan",
+  "organization": "LASACS"
+}

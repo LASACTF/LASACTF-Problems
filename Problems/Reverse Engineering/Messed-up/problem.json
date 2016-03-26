@@ -1,0 +1,9 @@
+{
+  "name": "Messed Up",
+  "category": "Reverse Engineering",
+  "description": "We found this encrypted {{url_for(\"hard.txt\", display=\"file\")}}. The source code is {{url_for(\"mess.py\", display=\"here\")}}. You also might want {{url_for(\"hint.txt\", display=\"this\")}}",
+  "hints": ["Flag is in all caps. No spaces."],
+  "score" : 220,
+  "author": "Wilson",
+  "organization": "LASACS"
+}

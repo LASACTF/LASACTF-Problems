@@ -1,0 +1,9 @@
+{
+  "name": "Shiftier Letters",
+  "category": "Cryptography",
+  "description": "There is a service running on {{server}}:{{port}}, figure out how to talk to it.",
+  "hints": ["I heard programs shift better than people","Make sure you end your input with a newline", "You have 10 seconds to finish, run your solution on the shell server if you have time troubles"],
+  "score" : 120,
+  "author": "Michael",
+  "organization": "LASACS"
+}

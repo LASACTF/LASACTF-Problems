@@ -1,0 +1,9 @@
+{
+  "name": "Lost Extensions",
+  "category": "Forensics",
+  "description": "This {{url_for(\"Extensions\", display=\"file\")}} got sad and threw away its extension! Maybe you can figure out what it's supposed to be?",
+  "score" : 50,
+  "hints": ["There sure are a lot of numbers there."],
+  "author": "Michael",
+  "organization": "LASACS"
+}

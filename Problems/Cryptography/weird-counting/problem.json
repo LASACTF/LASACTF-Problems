@@ -1,0 +1,9 @@
+{
+  "name": "Weird Counting",
+  "category": "Cryptography",
+  "description": "Kyle has invented a new language! {{url_for(\"problem.txt\", display=\"Here\")}} are the numbers one through 16. What is nalazofa in base 10?",
+  "hints": ["Computational Linguistics is a very interesting field. Try looking for patterns in the counting system."],
+  "score" : 150,
+  "author": "Niels",
+  "organization": "LASACS"
+}
